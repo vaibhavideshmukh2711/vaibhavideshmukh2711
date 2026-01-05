@@ -51,7 +51,7 @@
 - Used **SQL joins, aggregations, and subqueries** for analysis  
 - Created interactive Excel dashboards  
 - Delivered insights to support business decision-making  
-- Repository: <a href="https://github.com/vaibhavideshmukh2711/Pizza-Sales-Analysis-SQL" >
+ <a href="https://github.com/vaibhavideshmukh2711/Pizza-Sales-Analysis-SQL" >
 ---
 
 ### 👥 HR Analytics Dashboard | Power BI  
