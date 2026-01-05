@@ -51,15 +51,20 @@
 - Used **SQL joins, aggregations, and subqueries** for analysis  
 - Created interactive Excel dashboards  
 - Delivered insights to support business decision-making  
-
+- Repository: <a href="https://github.com/vaibhavideshmukh2711/Pizza-Sales-Analysis-SQL" target="_blank">
 ---
 
 ### 👥 HR Analytics Dashboard | Power BI  
 - Designed an **HR Analytics Dashboard** for **1,470 employees**  
 - Performed data cleaning and modeling  
 - Created DAX measures for **attrition analysis**  
-- Visualized key HR KPIs and workforce trends  
+- Visualized key HR KPIs and workforce trends
+- Repository: <a href="https://github.com/vaibhavideshmukh2711/HR-powerbi-project" target="_blank">
 
+### 🎬 Netflix Data Analysis | Python (EDA)
+- Performed Exploratory Data Analysis using Pandas, NumPy, Matplotlib, and Seaborn.
+- Identified trends in content type, genre distribution, country-wise data, and release patterns.
+- Repository: <a href="https://github.com/vaibhavideshmukh2711/NetflixData-Analysis-Python" target="_blank">
 ---
 
 ## 📊 GitHub Stats  
